@@ -17,3 +17,23 @@
   display: flex;
   justify-content: space-between;
 }
+.review-items .delete-container {
+  display: flex;
+  align-items: center;
+}
+.delete-icon {
+  color: rgba(235, 87, 87, 1);
+  height: 22px;
+  width: 22px;
+  left: 502.428466796875px;
+  top: 33.857139587402344px;
+  border-radius: 0px;
+}
+.review-items .delete-button {
+  background: rgba(235, 87, 87, 0.3);
+  border: 0;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  cursor: pointer;
+}
